@@ -1,5 +1,8 @@
 # Changelog
 
+### Unreleased
+* Remove GitHub updater as the plugin has changed drastically
+
 ### 1.1.4
 * Add flickr social link into Customizer options and footer icon output
 * Updated CSS style for footer social links
